@@ -1,0 +1,26 @@
+[
+    {
+      "categoryId": "wire",
+      "name": "Wiring & Electrical",
+      "image": "",
+      "url": "/wire"
+    },
+    {
+      "categoryId": "led",
+      "name": "Led Driving Lights",
+      "image": "",
+      "url": "/led"
+    },
+    {
+      "categoryId": "accessories",
+      "name": "Driving light accessories",
+      "image": "",
+      "url": "/accessories"
+    },
+    {
+      "categoryId": "interior",
+      "name": "interior accessories",
+      "image": "",
+      "url": "/interior"
+    }
+]
